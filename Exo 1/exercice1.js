@@ -5,6 +5,6 @@ let personne = {
 
 /* Afficher ci dessous la propriété nom de notre objet dans un alert */
 
-alert();
+alert(personne["nom"]);
 
 
